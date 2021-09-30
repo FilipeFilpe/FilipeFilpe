@@ -170,14 +170,13 @@
     </a>
 </p>
 
+
+<!-- <p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipefilpe&show_icons=true&locale=en" alt="filipefilpe" />
+</p> -->
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipefilpe&show_icons=true&locale=en&layout=compact" alt="filipefilpe" />
 </p>
-
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=filipefilpe&show_icons=true&locale=en" alt="filipefilpe" />
-</p>
-
-<p>
+<!-- <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipefilpe&" alt="filipefilpe" />
-</p>
+</p> -->
