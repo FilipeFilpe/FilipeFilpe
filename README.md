@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'am Filipe Sousa, Full Stack Developer and owner the Leon
+#### I'm Filipe Sousa, Full Stack Developer and I'm has a cat, the Leon.
 
 <p>
   <b>For more Github info </b>
