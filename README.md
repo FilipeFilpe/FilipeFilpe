@@ -1,5 +1,10 @@
 ### Hi there 👋
+#### I'am Filipe Sousa, Full Stack Developer and owner the Leon
 
+<p>
+  <b>For more Github info </b>
+  <a href="https://gitprofilee.netlify.app/user?id=filipefilpe">check this</a>
+</p>
 <!--
 **FilipeFilpe/FilipeFilpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
