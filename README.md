@@ -11,20 +11,23 @@
 - 💬 Ask me about **react, javascript, nodejs and php**
 
 - 📫 How to reach me **sfilipef@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/filipe-filpe" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="filipe-filpe" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@filipefilpe" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="@filipefilpe" height="30" width="40" />
-    </a>
-</p>
+<div>  
+    <a href="mailto:sfilipef@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a/>
+    <a href="https://linkedin.com/in/filipe-filpe" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a/>
+    <a href="https://www.instagram.com/filipe.filpe/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a/>
+    <a href="https://medium.com/@filipefilpe" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <a/>
+    <a href="https://github.com/FilipeFilpe/FilipeFilpe" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <a/>
+</div>
 <div>
     <h3 align="left">Languages and Tools:</h3>
     <!-- html5 -->
