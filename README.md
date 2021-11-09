@@ -51,7 +51,8 @@
     <!-- vuejs -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs"  height="40" />
     <!-- nextjs -->
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"  height="40" />
+    <!--<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"  height="40" />-->    
+    <img src="./nextjslogo.png" alt="nextjs" height="35" />
     <!-- nodejs -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs"  height="40" />
     <!-- php -->
