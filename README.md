@@ -64,8 +64,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql"  height="40" />
     <!-- git -->
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  height="40" />
-    <!-- docker -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  height="40" />
+    <!-- docker 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  height="40" />-->
 </div>
 <h1 align="center"></h1>
 <div>
