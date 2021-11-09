@@ -70,7 +70,7 @@
 <h1 align="center"></h1>
 <div>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=filipefilpe&show_icons=true&locale=en&theme=dark" alt="filipefilpe" />
-    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipefilpe&show_icons=true&locale=en&layout=compact&theme=dark" alt="filipefilpe" />
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipefilpe&show_icons=true&locale=en&layout=compact&theme=dark" alt="filipefilpe" />
 </div>
 <!-- <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipefilpe&" alt="filipefilpe" />
