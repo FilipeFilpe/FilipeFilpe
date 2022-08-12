@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Filipe Sousa</h1>
 <h3 align="center">A Full Stack Developer, passionate from JavaScript.</h3>
 
-- 🔭 I’m currently working with **Laravel**, **ReactJS** and **MaterialUI**
+- 🔭 I’m currently working with **ReactJS**, **Typescript**, **Javascript** and **Jest**
 
 - 🌱 I’m currently learning **NextJS** and **Laravel**
 
