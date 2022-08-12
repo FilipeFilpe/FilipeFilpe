@@ -71,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"  height="40" />-->
 </div>
 <h1 align="center"></h1>
-<div>
+<div style="display: flex;">
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=filipefilpe&show_icons=true&locale=en&theme=dark" alt="filipefilpe" />
     <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipefilpe&show_icons=true&locale=en&layout=compact&theme=dark" alt="filipefilpe" />
 </div>
