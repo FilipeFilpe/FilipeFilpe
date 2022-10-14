@@ -75,6 +75,14 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=filipefilpe&show_icons=true&locale=en&theme=dark" alt="filipefilpe" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipefilpe&show_icons=true&locale=en&layout=compact&theme=dark" alt="filipefilpe" />
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=filipefilpe&show_icons=true&locale=en&theme=dark" alt="filipefilpe" />
+</a> &nbsp; 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filipefilpe&show_icons=true&locale=en&layout=compact&theme=dark" alt="filipefilpe" />
+</a>
+
 <!-- <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filipefilpe&" alt="filipefilpe" />
 </p> -->
