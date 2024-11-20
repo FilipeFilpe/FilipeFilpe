@@ -1,4 +1,5 @@
 <!-- create by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- icons by https://github.com/devicons/devicon/tree/master -->
 <h1 align="center">Hi 👋, I'm Filipe Sousa</h1>
 <h3 align="center">A Full Stack Developer, passionate from JavaScript.</h3>
 
@@ -54,7 +55,7 @@
     <!--<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"  height="40" />-->    
     <img src="./nextjslogo.png" alt="nextjs" height="35" />
     <!-- nodejs -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs"  height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs"  height="40" />
     <!-- jest -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest"  height="35" />
     <!-- php -->
