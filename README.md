@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working with **ReactJS**, **Typescript**, **Javascript** and **Jest**
 
-- 🌱 I’m currently learning **NextJS** and **Laravel**
+- 🌱 I’m currently learning **NextJS** and **Java**
 
 - 📝 I regularly write articles on [https://medium.com/@filipefilpe](https://medium.com/@filipefilpe)
 
-- 💬 Ask me about **react, javascript, nodejs and php**
+- 💬 Ask me about **react, javascript, typescript, nodejs and php**
 
 📫 **How to reach me**
 <div>  
